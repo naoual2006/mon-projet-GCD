@@ -1,0 +1,6 @@
+{
+  "name": "DocCycle - Plateforme Doctorale Nouvelle Génération",
+  "description": "Plateforme moderne de gestion du cycle doctoral (remplaçant GCD) : parcours candidat sans friction avec scan OCR CIN, évaluation assistée par IA avec vue comparative, gestion hybride papier/numérique par QR Code, signatures électroniques et interface bilingue FR/AR.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
